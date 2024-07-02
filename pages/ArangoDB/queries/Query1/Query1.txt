@@ -1,0 +1,5 @@
+FOR user IN users
+FILTER user.role == "Admin"
+SORT user.id ASC
+LIMIT 10
+RETURN user

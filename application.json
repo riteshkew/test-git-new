@@ -1,0 +1,17 @@
+{
+  "appIsExample": false,
+  "applicationVersion": 2,
+  "color": "#C7F3E3",
+  "evaluationVersion": 2,
+  "icon": "book",
+  "pages": [
+    {
+      "id": "ArangoDB",
+      "isDefault": false
+    },
+    {
+      "id": "SnowflakeData",
+      "isDefault": true
+    }
+  ]
+}

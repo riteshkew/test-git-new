@@ -1,0 +1,20 @@
+{
+  "gitSyncId": "63ca26814bee843394123694_63d3e8fcc7293b4491825256",
+  "id": "ArangoDB_JSObject1",
+  "unpublishedCollection": {
+    "name": "JSObject1",
+    "pageId": "ArangoDB",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ]
+  }
+}

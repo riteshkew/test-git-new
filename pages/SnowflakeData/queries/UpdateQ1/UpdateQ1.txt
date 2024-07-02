@@ -1,0 +1,3 @@
+UPDATE users
+  SET name = 'Krishna Mohan', gender = 'Male', email = 'Kmohan@gmail.com'
+  WHERE id = 2;

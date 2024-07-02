@@ -1,0 +1,5 @@
+INSERT INTO users
+  (id, name, createdAt, updatedAt, gender, email, DOB, PHONENO)
+VALUES
+  ({{Input1.text}}, 'Ramesh Teertham','{{DatePicker1.selectedDate}}','{{DatePicker2.selectedDate}}','Male','RameshTee@gmail.com',  '80471252153535', 8398832144),
+({{Input2.text}}, 'Jurong Day','{{DatePicker1.selectedDate}}','{{DatePicker2.selectedDate}}','Female','JuroDay@gmail.com', '80471653153831', 8294932555);
